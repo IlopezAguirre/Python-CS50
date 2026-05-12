@@ -31,4 +31,4 @@ first, last = name.split(" ")
 print(f"hello, {first}") ##This is an f string
 ##A method is a fucntion that's built in the program like functions are.
 
-#-----INTEGERS-------#
+
