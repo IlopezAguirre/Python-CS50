@@ -52,3 +52,8 @@ elif planet_number == 7:
   print(destination_weight)
 else:
   print('Invalid number')
+  
+##New Year Count down
+for i in range(10,0,-1):
+  print(i)
+print("Happy New Year! 🥳")
