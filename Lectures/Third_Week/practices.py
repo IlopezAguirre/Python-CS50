@@ -31,3 +31,4 @@ elif number == 8:
 else:
     print("Error")
 print("Magic 8 Ball" + answer)
+
