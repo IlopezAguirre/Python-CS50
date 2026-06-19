@@ -32,3 +32,33 @@ else:
     print("Error")
 print("Magic 8 Ball" + answer)
 
+
+##FUNCTIONS , FUNCTION DEFINITIONS ###
+#CALCULATOR PROGRAM
+# Write code below 💖
+##SIMPLE CALCULATOR PROGRAM##
+def add(a,b):
+  answer = a + b
+  return answer
+
+def subtract(a,b):
+  difference = a - b
+  return b
+
+def multiply(a,b):
+  repetitive_addition = a * b
+  return repetitive_addition
+
+def division(a, b):
+  div = a / b
+  return div
+
+def exp(a,b):
+  exponential = a ** b
+  return exponential
+
+print(add(2,2))
+print(subtract(3,2))
+print(multiply(2,3))
+print(division(6,2))
+print(exp(3,2)) 
