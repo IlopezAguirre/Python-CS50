@@ -1,0 +1,16 @@
+import wikipedia
+wikipedia.set_user_agent("CS50_Practice_Project (ian158699@gmail.com)")
+print(wikipedia.summary("Videogames"),sep='')
+
+import this
+##LETTER TO MY FUTURE SELF##
+print("""06/17/26 
+today I'm feeling really good, watching football was nice.
+By learning to code I want to accomplish my goals of becoming a software engineer inter.
+I want to be the best version of myself. I want to love and onjoy coding, I'll foc us on the proccess
+rather than the product and last but not least I want to do it for me and for my family. Have a better future and reach financial freedom
+and stability.
+
+A message for you Ian. "Never give up" bet on yourself even when things look hard and the path looks rough
+keep going. Believe in yourself and be proud that your trying to be better every single day. Everything starts with
+BELIVING IN YOURSELF.👏""")
